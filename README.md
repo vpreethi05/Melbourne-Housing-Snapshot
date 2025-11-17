@@ -3,6 +3,12 @@
 ## Overview
 This project presents a comprehensive analysis and predictive modeling of residential property prices in Melbourne, Australia. Utilizing the Melbourne Housing Snapshot dataset, we explore statistical learning and machine learning techniques to accurately predict housing prices.
 
+## Dataset
+
+This project uses the Melbourne Housing Snapshot dataset, publicly available on Kaggle:  
+[Melbourne Housing Snapshot - Kaggle](https://www.kaggle.com/dansbecker/melbourne-housing-snapshot)
+
+
 ## Contents
 - Data preprocessing including missing value handling, feature engineering, and log transformations
 - Exploratory data analysis with correlation and distribution insights
